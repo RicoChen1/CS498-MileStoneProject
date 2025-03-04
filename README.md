@@ -1,5 +1,5 @@
 # CS498-MileStoneProject
-Lehigh University CS 498 Milestone Term Long LLM Practice Project, work with Ms. Wang Jiaming jiwb22@lehigh.edu
+Lehigh University CS 498 Milestone Term Long LLM Practice Project, work with Mr. Wang Jiaming, MS, jiwb22@lehigh.edu
 Image Enhancement and Reconstruction in Medical Imaging Using Generative AI (GAI) and GANs
 
 Welcome to the CS498 Milestone Project repository! This project explores the use of Generative Adversarial Networks (GANs) and other Generative AI (GAI) methods to enhance and reconstruct medical images (e.g., CT, MRI, and X-ray). Our goal is to understand how these advanced models can tackle challenges in medical data, such as data scarcity, image noise, low resolution, and privacy concerns.
